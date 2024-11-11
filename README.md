@@ -1,4 +1,4 @@
-Senior developer, DevOps, artist, teamlead, SEO, gamedesigner, playtester of GVSS studio
+Senior developer, DevOps, artist, teamlead, SEO, gamedesigner, playtester, owner, HR manager, founder of GVSS studio
 
 <!--
 **kalasherr/kalasherr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
