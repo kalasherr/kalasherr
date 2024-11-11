@@ -1,6 +1,6 @@
 Senior/middle/junior godot developer, DevOps, artist, teamlead, SEO, gamedesigner, playtester, owner, HR manager, founder of GVSS studio
 
-https://kalasherr.itch.io/last-believer
+First finished game: https://kalasherr.itch.io/last-believer
 
 <!--
 **kalasherr/kalasherr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
