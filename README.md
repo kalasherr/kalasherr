@@ -1,6 +1,8 @@
-Senior/middle/junior godot developer, DevOps, artist, teamlead, SEO, gamedesigner, playtester, owner, HR manager, founder of GVSS studio
+Senior/middle/junior godot developer, DevOps, artist, teamlead, SEO, gamedesigner, playtester, owner, HR manager, founder of GVSS studio. Currently working on alcoholic rogue-like
 
 Current number of workers: 1
+Current number of dropped projects: 5
+Current number of finished projects: 1
 
 First finished game: https://kalasherr.itch.io/last-believer
 
