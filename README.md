@@ -1,4 +1,4 @@
-Senior/middle/junior godot developer, DevOps, artist, teamlead, SEO, gamedesigner, playtester, owner, HR manager, founder of GVSS studio. Currently working on alcoholic rogue-like
+Senior/middle/junior godot developer, DevOps, artist, teamlead, SEO, gamedesigner, playtester, owner, HR manager, founder of GVSS studio. Currently working on alcohol-based rogue-like
 
 Current number of workers: 1
 
