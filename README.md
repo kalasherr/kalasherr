@@ -2,7 +2,7 @@ Senior/middle/junior godot developer, DevOps, artist, teamlead, SEO, gamedesigne
 
 Current number of workers: 1
 
-Current number of dropped projects: 5
+Current number of dropped projects: 6
 
 Current number of finished projects: 2
 
