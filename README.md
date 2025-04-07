@@ -4,7 +4,7 @@ Current number of workers: 1
 
 Current number of dropped projects: 6
 
-Current number of finished projects: 2
+Current number of finished projects: 3
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalasherr&layout=compact&theme=github_dark&hide_border=true)
 <!--
